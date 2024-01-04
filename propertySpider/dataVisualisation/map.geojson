@@ -15863,7 +15863,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wesola",
+        "name": "Wesoła",
         "id": "Wesoła"
       },
       "geometry": {
@@ -15878,7 +15878,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name": "Rembertow",
+      "name": "Rembertów",
       "id": "Rembertów"
       },
       "geometry": {
@@ -15892,8 +15892,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praga-Poludnie",
-        "id": "Praga-Południe"
+        "name": "Praga Południe",
+        "id": "Praga Południe"
       },
       "geometry": {
         "coordinates": [
@@ -15907,7 +15907,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Targowek",
+        "name": "Targówek",
         "id": "Targówek"
       },
       "geometry": {
@@ -15922,7 +15922,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Bialoleka",
+        "name": "Białołęka",
         "id": "Białołęka"
       },
       "geometry": {
@@ -15952,7 +15952,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Zoliborz",
+        "name": "Żoliborz",
         "id": "Żoliborz"
       },
       "geometry": {
@@ -15997,7 +15997,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wlochy",
+        "name": "Włochy",
         "id": "Włochy"
       },
       "geometry": {
@@ -16042,7 +16042,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Mokotow",
+        "name": "Mokotów",
         "id": "Mokotów"
       },
       "geometry": {
@@ -16057,7 +16057,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Ursynow",
+        "name": "Ursynów",
         "id": "Ursynów"
       },
       "geometry": {
@@ -16072,7 +16072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Wilanow",
+        "name": "Wilanów",
         "id": "Wilanów"
       },
       "geometry": {
@@ -16087,7 +16087,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Srodmiescie",
+        "name": "Śródmieście",
         "id": "Śródmieście"
       },
       "geometry": {
@@ -16102,8 +16102,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Praga-Polnoc",
-        "id": "Praga-Północ"
+        "name": "Praga Północ",
+        "id": "Praga Północ"
       },
       "geometry": {
         "coordinates": [
