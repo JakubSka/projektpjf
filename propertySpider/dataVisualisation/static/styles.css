@@ -1,0 +1,76 @@
+        #map {
+            height: 100vh;
+            width: 100rem;
+        }
+        .scrollable-list-container {
+            display: flex;
+            flex-direction: column;
+            width: 30rem;
+            height: 100vh;
+            overflow-y: scroll;
+            border: 1px solid #ccc;
+        }
+
+        .page{
+            display: flex;
+            height: auto;
+            width: auto;
+        }
+         .checkbox-container {
+            margin-top: 10px;
+        }
+
+        .custom-select {
+            position: relative;
+            display: inline-block;
+        }
+
+        .custom-select select {
+            display: none;
+        }
+
+        .select-trigger {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 8px 16px;
+            border: 1px solid #ccc;
+            cursor: pointer;
+        }
+
+        .select-trigger::after {
+            content: '\25BC';
+            font-size: 12px;
+            margin-left: 8px;
+        }
+
+        .options-container {
+            display: none;
+            position: absolute;
+            background-color: #f9f9f9;
+            box-shadow: 0 8px 16px rgba(0,0,0,0.2);
+            z-index: 1;
+        }
+
+        .options-container label {
+            display: block;
+            padding: 8px 16px;
+            cursor: pointer;
+        }
+
+        .options-container label:hover {
+            background-color: #ddd;
+        }
+
+        .custom-select.open .options-container {
+            display: block;
+        }
+
+        li{
+            border-left: 4px solid dodgerblue;
+            list-style-type: none;
+            padding-left: 4px;
+            margin-bottom: 5px;
+            margin-top: 5px;
+        }
+
