@@ -1,4 +1,4 @@
-        #map {
+         #map {
             height: 100vh;
             width: 100rem;
         }
@@ -65,12 +65,3 @@
         .custom-select.open .options-container {
             display: block;
         }
-
-        li{
-            border-left: 4px solid dodgerblue;
-            list-style-type: none;
-            padding-left: 4px;
-            margin-bottom: 5px;
-            margin-top: 5px;
-        }
-
